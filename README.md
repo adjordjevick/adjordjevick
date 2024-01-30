@@ -123,9 +123,9 @@ Bathed in an unyielding ardor for programming, cybersecurity, and the art of eth
   <code><img height="25" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/></code>
 </div>
 
-<h2>github_statistics</h2>
-<a href="https://github.com/Pr0xyG33k">
-<img align="center" src="https://github.com/adjordjevick/adjordjevick/tmp/OPEN_POSITIF.png"/>
+<h2>End</h2>
+<div align="center">
+  <img height="50" src="https://github.com/adjordjevick/adjordjevick/tmp/OPEN_POSITIF.png"/>
 
 <!--
 <h2>social</h2> 
