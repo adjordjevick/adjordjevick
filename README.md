@@ -36,8 +36,10 @@
 -->
 <!--   my-ticker -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=4000&pause=500&color=B62E32&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+the+profile+of+Anthony+DJORDJEVIC%2C;the+interplay+between+%3CH4ck1ng_%3E+%26+%3CPr0gr4mm1ng_%3E">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=4000&pause=500&color=0000FF&center=true&vCenter=true&random=false&width=800&height=100&lines=Exploring+the+Digital+Frontier;Expert+in+%3CH4ck1ng_%3E+%26+%3CPr0gr4mm1ng_%3E;Innovating+in+Cyber+Security+and+Tech+Solutions">
 </p>
+
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
