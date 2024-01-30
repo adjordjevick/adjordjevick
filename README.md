@@ -52,7 +52,7 @@
         <li><a href="#ml_dm">ml_dm</a></li>
         <li><a href="#other">other</a></li>
      </ul>
-    <li><a href="#github_statistics">github_statistics</a></li>
+    <li><a href="#sign">sign</a></li>
   </ol>
 </details>
 
@@ -123,9 +123,9 @@ Bathed in an unyielding ardor for programming, cybersecurity, and the art of eth
   <code><img height="25" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/></code>
 </div>
 
-<h2>End</h2>
+<h2>sign</h2>
 <div align="center">
-  <img height="50" src="https://github.com/adjordjevick/adjordjevick/tmp/OPEN_POSITIF.png"/>
+  <img height="100" src="tmp/OPEN_POSITIF.png"/>
 
 <!--
 <h2>social</h2> 
