@@ -69,7 +69,14 @@
 ---
 
 <h2>about</h2>
-Bathed in an unyielding ardor for programming, cybersecurity, and the art of ethical hacking, I intricately refine my craft in fortifying systems and architecting resilient applications, driven by an unwavering commitment to lead the charge in this ever-evolving domain.
+With a strong background in ethical hacking, I am committed to developing secure and innovative solutions.
+</br>
+My journey in the tech world has enabled me to master various programming languages and technologies, making me versatile in solving complex challenges.
+</br>
+I am constantly seeking new knowledge and challenges, aiming to enhance digital security and share my expertise with the community. 
+</br>
+</br>
+Welcome to my GitHub profile, where I showcase my projects, collaborations, and contributions to the world of cybersecurity.
 
 <!--   my-programming -->
 <h2>skills</h2>
