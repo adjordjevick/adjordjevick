@@ -4,11 +4,11 @@
 <p align="center">
 </a>
     <a href="https://github.com/adjordjevick/adjordjevick"><img src="https://img.shields.io/badge/status-update-greengreen.svg?style=for-the-badge"></a>
-    <a href="https://github.com/adjordjevick/adjordjevick/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/Pr0xyG33k?style=for-the-badge">
-    <a href="https://github.com/adjordjevick/adjordjevick/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Pr0xyG33k?style=for-the-badge"></a>
-    <a href="https://github.com/adjordjevick/adjordjevick/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Pr0xyG33k.svg?style=for-the-badge"></a>
-    <a href="https://github.com/adjordjevick/adjordjevick/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/Pr0xyG33k.svg?style=for-the-badge"></a>
-    <a href="https://github.com/adjordjevick/adjordjevick/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Pr0xyG33k/Pr0xyG33k.svg?style=for-the-badge"></a>
+    <a href="https://github.com/adjordjevick/adjordjevick/graphs/contributors"><img src="https://img.shields.io/github/contributors/adjordjevick/adjordjevick?style=for-the-badge">
+    <a href="https://github.com/adjordjevick/adjordjevick/stargazers"><img src="https://img.shields.io/github/stars/adjordjevick/adjordjevick?style=for-the-badge"></a>
+    <a href="https://github.com/adjordjevick/adjordjevick/network/members"><img src="https://img.shields.io/github/forks/adjordjevick/adjordjevick.svg?style=for-the-badge"></a>
+    <a href="https://github.com/adjordjevick/adjordjevick/issues"><img src="https://img.shields.io/github/issues/adjordjevick/adjordjevick.svg?style=for-the-badge"></a>
+    <a href="https://github.com/adjordjevick/adjordjevick/blob/master/LICENSE"><img src="https://img.shields.io/github/license/adjordjevick/adjordjevick.svg?style=for-the-badge"></a>
 </p>
 
 <!-- PROJECT SHIELDS -->
@@ -36,7 +36,7 @@
 -->
 <!--   my-ticker -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=4000&pause=500&color=B62E32&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+the+profile+of+Anthony DJORDJEVIC%2C;the+interplay+between+%3CH4ck1ng_%3E+%26+%3CPr0gr4mm1ng_%3E">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=4000&pause=500&color=B62E32&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+the+profile+of+Anthony+DJORDJEVIC%2C;the+interplay+between+%3CH4ck1ng_%3E+%26+%3CPr0gr4mm1ng_%3E">
 </p>
 
 <!-- TABLE OF CONTENTS -->
