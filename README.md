@@ -134,7 +134,7 @@ Welcome to my GitHub profile, where I showcase my projects, collaborations, and 
 
 <h2>sign</h2>
 <div align="center">
-  <img height="100" src="tmp/OPEN_POSITIF.png"/>
+  <img height="130" src="tmp/OPEN.png"/>
 
 <!--
 <h2>social</h2> 
